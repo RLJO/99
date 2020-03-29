@@ -1,0 +1,4 @@
+[submodule "RLJO/Royal"]
+	path = RLJO/Royal
+	url = git@github.com:RLJO/Royal.git
+	branch = Work
